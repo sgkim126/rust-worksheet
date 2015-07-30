@@ -1,0 +1,4 @@
+[package]
+name = "rust-worksheet"
+version = "0.1.0"
+authors = ["Seulgi Kim <dev@seulgi.kim>"]
